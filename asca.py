@@ -94,7 +94,6 @@ class AscaScraper:
                     writer.writerow(row)
                     print ('id :', therapist_id,' time: ', time_since)
                     
-                    
                 else:
                     print(f"Failed to fetch data for therapist ID: {therapist_id}")
 
