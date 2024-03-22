@@ -1,5 +1,5 @@
 """
-Scrape fso-svo.ch from 'start_id' to 'end_id' and save the result in 'osteopath_data.csv'
+Scrape fso-svo.ch and save the result in 'osteopath_data.csv'
 Usage: python fso-svo.py
 """
 
